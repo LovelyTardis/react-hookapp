@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+nav {
+    background-color: grey;
+    display: grid;
+}
+ul {
+    display: flex;
+    list-style: none;
+}
+li {
+    width: 100px;
+    font-size: 20px;
+    
+}
+.link {
+    text-decoration: none;
+}
